@@ -1,0 +1,15 @@
+
+{
+    // This data is dummy data, you will need to replace it with your own data
+    "type": "service_account",
+    "project_id": "opensea-bot-123456",
+    "private_key_id": "insert private key id",
+    "private_key": "insert private key",
+    "client_email": "insert client email",
+    "client_id": "insert client id",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/openseabot%40opensea-bot-123456.iam.gserviceaccount.com"
+  }
+  
