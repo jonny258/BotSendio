@@ -41,3 +41,5 @@ This project is under the MIT License - for more details, see the LICENSE.md fil
 Make sure to avoid uploading any of your private keys to a public repository
 
 
+[BotSend Whitepaper](./assets/BotSend%20business%20model%20Final.pdf)
+[BodSend Advertisement](./assets/BotSend%20marketing.pdf)
